@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:shoppingmall/states/widget/show_image.dart';
-import 'package:shoppingmall/states/widget/show_title.dart';
+import 'package:shoppingmall/widget/show_image.dart';
+import 'package:shoppingmall/widget/show_title.dart';
 import 'package:shoppingmall/utility/my_constant.dart';
 
 class Authen extends StatefulWidget {
